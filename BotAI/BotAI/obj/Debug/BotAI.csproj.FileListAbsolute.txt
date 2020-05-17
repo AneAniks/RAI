@@ -1,0 +1,16 @@
+D:\UACS\RAI\BotAI\BotAI\obj\Debug\BotAI.csprojAssemblyReference.cache
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\x86\liblept1753.dll
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\x86\libtesseract3052.dll
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\x64\liblept1753.dll
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\x64\libtesseract3052.dll
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\BotAI.exe.config
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\BotAI.exe
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\BotAI.pdb
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\InputManager.dll
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\Newtonsoft.Json.dll
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\PresentationFramework.dll
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\Tesseract.dll
+D:\UACS\RAI\BotAI\BotAI\bin\Debug\Newtonsoft.Json.xml
+D:\UACS\RAI\BotAI\BotAI\obj\Debug\BotAI.csproj.CopyComplete
+D:\UACS\RAI\BotAI\BotAI\obj\Debug\BotAI.exe
+D:\UACS\RAI\BotAI\BotAI\obj\Debug\BotAI.pdb
